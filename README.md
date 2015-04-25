@@ -1,4 +1,4 @@
-# StudyGit
+# StudyGit :sparkling_heart:
 <head>
 <H1 > Headings tag ------</H1>
 </head>
