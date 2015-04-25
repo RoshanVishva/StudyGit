@@ -1,6 +1,6 @@
 # StudyGit
 <head>
-<H1 DIR=RTL > Headings tag ------</H1>
+<H1 > Headings tag ------</H1>
 </head>
 <body>
 This is to study Github
